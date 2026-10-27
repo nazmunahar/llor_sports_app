@@ -1,0 +1,6 @@
+{
+  "appId": "com.llorsports.app",
+  "appName": "LLOR Sports",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}
